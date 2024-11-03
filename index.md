@@ -1,4 +1,3 @@
-GitHub Pages sivuni, jossa on Jekyll teema
 ## Tervetuloa GitHub Pages-sivustolleni!
 Tässä on lista tehtäväpalautuksistani:
 - [Viikko 1](./vko1/index.html)
