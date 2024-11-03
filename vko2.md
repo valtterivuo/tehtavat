@@ -3,4 +3,4 @@ Voit käyttää GitHub Actionseja automaattisesti rakentamaan (build) ja käytt�
 
 CI/CD-putkiston rakentamiseksi web-sovellukselle haluataan rakentaa Git repositorion lähdekoodille. GitHub on yleisesti käytetty alusta tälle. Workflow määrittää miten koodin muutokset etenevät kehityksestä käyttöönottoon. Yleisesti käytettyjä workflowta ovat Gitflow ja GitHub Flow.  Sen jälkeen tarvitaan CI palvelin, esimerkiksi Jenkins, Travis CI tai Circle CI. Tämä integroidaan repositorion kanssa. Halutaan myös rakennusjärjestelmä (build system). Yleiseti käytettyjä esimerkkejä ovat Apache Maven, Gradle ja Make. Koodin hyvää laatua voidaa ylläpitää käyttämällä koodin analysointityökalua, kuten SonarQubea. Artifaktien hallinata on myös yksi osa putkistoa. Siihen halutaan käyttää artifakti repositioriota, joita ovat esimerkiksi Docker Hub ja AWS S3. Käyttöönoton automatisaatioon voidaan käyttää työkaluja kuten Ansibnle, Kubernetes tai Terraform.
 
-[Etusivulle] (index.md)
+[Etusivulle](index.md)
