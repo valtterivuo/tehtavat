@@ -5,5 +5,5 @@ Tässä on lista tehtäväpalautuksistani:
 - [Viikko 3](./vko3)
 - [Viikko 4](./vko4)
 - [Viikko 5](vko5.md)
-- Viikko 6
-- Harjoitustyö
+- [Viikko 6](./vko6)
+- [Harjoitustyö](lopputyo.md)
